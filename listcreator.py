@@ -36,5 +36,21 @@ def pointlistload(plcsv):
 
 if __name__ == '__main__':
 
-    equiplistload('airside.csv')
-    pointlistload('ahupointlist.csv')
+    equiplist = equiplistload('airside.csv')
+    ahutemplate = pointlistload('ahupointtemplate.csv')
+
+    totalpointlist = []
+
+    for equip in equiplist:
+        if equip[2]=='ahu':
+            for templatepoint in ahutemplate:
+                pointname = equip[0]+' '+equip[1]+' '+templatepoint[0]
+                totalpointlist.append(pointname)
+
+    f = open('results.txt','w')
+    for point in totalpointlist:
+        print point
+        f.write(point+'\n')
+        
+
+    
