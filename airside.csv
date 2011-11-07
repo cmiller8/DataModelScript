@@ -1,0 +1,70 @@
+Location,Unit,PointList,Description,Tag,Tag,elecMeterLoad,EXCEPTION-Do not load
+Blk A,AHU 1-1,ahu,Music,hvac,ahu,AHU 1-1 Power Meter
+Blk A,AHU 1-2,ahu,Instrumental Music,hvac,ahu,AHU 1-2 Power Meter
+Blk A,AHU 2-1,ahu,Library,hvac,ahu,AHU 2-1 Power Meter
+Blk A,AHU 3-1,ahu,Library-NE Wing,hvac,ahu,AHU 3-1 Power Meter
+Blk A,AHU 5-1A,ahu,Auditorium Stage,hvac,ahu,AHU 5-1A Power Meter
+Blk A,AHU 5-1B,ahu,Auditorium,hvac,ahu,AHU 5-1B Power Meter
+Blk A,AHU 5-1C,ahu,Auditorium,hvac,ahu,AHU 5-1C Power Meter
+Blk A,AHU 5-1D,ahu,Auditorium,hvac,ahu,AHU 5-1D Power Meter
+Blk B,AHU 1-1,ahu,Lvl 2 Classrooms,hvac,ahu,AHU 1-1 Power Meter
+Blk B,AHU 1-2,ahu,Lvl 2 Staff Lounge,hvac,ahu,AHU 1-2 Power Meter
+Blk B,AHU 1-3,ahu,Lvl 2 Prim Libr,hvac,ahu,AHU 1-3 Power Meter
+Blk B,AHU EXAM,ahu,Exam Hall,hvac,ahu,AHU EXAM Power Meter
+Blk D,AHU 2-1,ahu,Lvl 2 Admin,hvac,ahu,AHU 2-1 Power Meter
+SC,AHU 1,ahu,Sport Hall 1,hvac,ahu,AHU 1 Power Meter
+SC,AHU 2,ahu,Sport Hall 2,hvac,ahu,AHU 2 Power Meter
+SC,AHU 3,ahu,Sport Hall 3,hvac,ahu,AHU 3 Power Meter
+SC,AHU 4,ahu,Sport Hall 4,hvac,ahu,AHU 4 Power Meter
+SC,AHU BB,ahu,Black Box,hvac,ahu,AHU BB Power Meter
+SC,AHU MPH,ahu,Multi Purpose Hall,hvac,ahu,AHU MPH Power Meter
+Blk C,FCU 2-1,fcu,Blk C Lvl 2 Receptionist Office,hvac,ahu,?,No vsd
+Blk C,FCU 2-2,fcu,Blk C Lvl 2 Clinic,hvac,ahu,?,"No vsd, controlled on supply"
+Blk C,FCU CH 1-1,fcu,Chiller Plant Room,hvac,ahu,?,No vsd
+Blk C,FCU CH 1-2,fcu,Chiller Plant Room,hvac,ahu,?,No vsd
+Blk C,FCU Facilities,fcu,Facilities East Office,hvac,ahu,?,No vsd
+Blk C,FCU Server,fcu,Blk C Lvl 3 Server,hvac,ahu,?,"No vsd, controlled on supply"
+Blk D,FCU 1-3,fcu,Blk D Lvl 1 VAV,hvac,ahu,?,vsd
+Blk D ,FCU 1-1,fcu,Blk D Lvl 1 VAV,hvac,ahu,?,vsd
+Blk D ,FCU 1-2,fcu,Blk D Lvl 1 VAV,hvac,ahu,?,vsd
+SC,FCU 1-1,fcu,Black Box Stage,hvac,ahu,?,No vsd
+SC,FCU 1-2,fcu,Block Box Corridor,hvac,ahu,?,No vsd
+SC,FCU 1-4,fcu,PE & Pool Office,hvac,ahu,?,No vsd
+SC,FCU 2-3,fcu,Multi Purpose Room,hvac,ahu,?,No vsd
+SC,FCU 2-5,fcu,Sport Office,hvac,ahu,?,No vsd
+SC,FCU 2-7,fcu,PE Classroom,hvac,ahu,?,No vsd
+BH,PAHU-1,pahu,"VAV 4,5,14",hvac,ahu,?
+BH,PAHU-2,pahu,"VAV 1,4,5,6,14",hvac,ahu,?
+Blk A,PAHU 5-2,pahu,NE Wing Lvl4-5 Office,hvac,ahu,PAHU 5-2 Power Meter,No static pressure
+Blk A,PAHU 6-1,pahu,"Art Studio 1-3, Art Resource Room",hvac,ahu,PAHU 6-1 Power Meter
+Blk A,PAHU 6-2,pahu,"Art Studio 5-6, Ceramics Digital Art",hvac,ahu,PAHU 6-2 Power Meter
+Blk B,PAHU 6-1,pahu,Lvl 3-5 VAV,hvac,ahu,PAHU 6-1 Power Meter
+Blk B,PAHU 6-2,pahu,Lvl 3-5 VAV,hvac,ahu,PAHU 6-2 Power Meter
+Blk B,PAHU 6-3,pahu,Lvl 3-5 VAV,hvac,ahu,PAHU 6-3 Power Meter
+Blk B,PAHU 6-4,pahu,Lvl 3-5 VAV,hvac,ahu,PAHU 6-4 Power Meter
+Blk C,PAHU 6-5,pahu,Lvl 3-6 SouthEast,hvac,ahu,PAHU 6-5 Power Meter,2 Static Pressure Sensors
+Blk C,PAHU 6-6,pahu,Lvl 3-6 NorthEast,hvac,ahu,PAHU 6-6 Power Meter,2 Static Pressure Sensors
+Blk D,PAHU 6-7,pahu,Lvl 3-6 Office Blk,hvac,ahu,PAHU 6-7 Power Meter,2 Static Pressure Sensors
+Blk D,PAHU 6-8,pahu,Lvl 3-6 NorthEast,hvac,ahu,PAHU 6-8 Power Meter,2 Static Pressure Sensors
+Blk D,PAHU 6-9,pahu,Lvl 3-6 South East,hvac,ahu,PAHU 6-9 Power Meter,2 Static Pressure Sensors
+IB,PAHU 1-1,pahu,Lvl 1-4,hvac,ahu,PAHU 1-1 Power Meter
+IB,PAHU 1-2,pahu,Infant Hall,hvac,ahu,PAHU 1-2 Power Meter
+IB,PAHU 1-3,pahu,Lvl 1-4,hvac,ahu,PAHU 1-3 Power Meter
+Blk A,PFCU 1-1,pfcu,Serves BLK A AHU 1-1,hvac,ahu,Blk A Main Power Meter
+Blk A,PFCU 1-2,pfcu,Serves BLK A AHU 1-2,hvac,ahu,Blk A Main Power Meter
+Blk A,PFCU 2-1,pfcu,Serves BLK A AHU 2-1,hvac,ahu,Blk A Main Power Meter
+Blk A,PFCU 3-1,pfcu,Serves BLK A AHU 3-1,hvac,ahu,Blk A Main Power Meter
+Blk A,PFCU 5-1A,pfcu,Serves BLK A AHU 5-1A,hvac,ahu,Blk A Main Power Meter
+Blk A,PFCU 5-1B,pfcu,Serves BLK A AHU 5-1B,hvac,ahu,Blk A Main Power Meter
+Blk A,PFCU 5-1C,pfcu,Serves BLK A AHU 5-1C,hvac,ahu,Blk A Main Power Meter
+Blk B,PFCU 1-1,pfcu,Serves Blk B AHU 1-1,hvac,ahu,Blk B Main Power Meter
+Blk B,PFCU 1-2,pfcu,Serves Blk B AHU 1-2,hvac,ahu,Blk B Main Power Meter
+Blk B,PFCU 1-3,pfcu,Serves Blk B AHU 1-3,hvac,ahu,Blk B Main Power Meter
+Blk B,PFCU Exam,pfcu,Serves Blk B Exam,hvac,ahu,Blk B Main Power Meter
+Blk D,PFCU 2-1,pfcu,Serves Blk D AHU 2-1,hvac,ahu,?
+SC,PFCU 1,pfcu,Serves AHU 1,hvac,ahu,?
+SC,PFCU 2,pfcu,Serves AHU 2,hvac,ahu,?
+SC,PFCU 3,pfcu,Serves AHU 3,hvac,ahu,?
+SC,PFCU 4,pfcu,Serves AHU 4,hvac,ahu,?
+SC,PFCU BB,pfcu,Serves AHU MPH,hvac,ahu,?
+SC,PFCU MPH,pfcu,Serves AHU BB,hvac,ahu,?

@@ -1,0 +1,17 @@
+Point Name
+BTU Meter,in,kWh,water
+Chilled Water Flowrate,in,L/min,water,flowRate
+Chilled Water Return Temp,in,°C,water,temp
+Chilled Water Supply Temp,in,°C,water,temp
+Chilled Water Valve,out,%,water,cool
+CO2 Sensor,in,ppm,air,co2
+Filter Alarm,out,boolean,air,alarm,filter
+Humidity,in,%,air,humidity
+Offcoil Temp,in,°C,air,temp
+Offcoil Temp Setpoint,sp,°C,air,temp
+On/Off Command,out,boolean,,,,elecMeterLoad
+Return Air Temp,in,°C,air,temp,return
+Static Pressure,out,Pa,air,pressure
+Static Setpoint,sp,Pa,air,pressure
+Supply Air Temp,in,°C,air,discharge
+VSD Output,out,%,,fan
